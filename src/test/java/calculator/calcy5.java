@@ -3,7 +3,7 @@ package calculator;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class calcy4 {
+public class calcy5 {
 
 	
 	@Test
@@ -41,16 +41,7 @@ public class calcy4 {
 		int b=20;
 		int div = a/b;
 		System.out.println("div=" + div );
-		Assert.assertEquals(div, 2);
-	}
-	
-	
-	@Test
-	public void set()
-	{
-		
-		System.out.println("new change");
-	
+		Assert.assertEquals(div, 0);
 	}
 	
 }
