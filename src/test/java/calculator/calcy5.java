@@ -44,4 +44,13 @@ public class calcy5 {
 		Assert.assertEquals(div, 0);
 	}
 	
+	
+	@Test
+	public void editfromGIT()
+	{
+		
+		System.out.println("editfromGIT");
+		
+	}
+	
 }
