@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.472 s <<< FAILURE! - in TestSuite
+div(calculator.calcy4)  Time elapsed: 0.006 s  <<< FAILURE!
+java.lang.AssertionError: expected [2] but found [0]
+	at calculator.calcy4.div(calcy4.java:44)
+

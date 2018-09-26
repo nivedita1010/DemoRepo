@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [mavendemo]">
+  <test name="demo(failed)">
+    <classes>
+      <class name="calculator.calcy4">
+        <methods>
+          <include name="div"/>
+        </methods>
+      </class> <!-- calculator.calcy4 -->
+    </classes>
+  </test> <!-- demo(failed) -->
+</suite> <!-- Failed suite [mavendemo] -->
